@@ -1,7 +1,8 @@
+import React from 'react'
 import Image from 'next/image'
 import Hero from './component/hero'
 
-import Contact from './component/contact'
+
 import Link from 'next/link'
 
 export default function Home() {
@@ -9,7 +10,7 @@ export default function Home() {
     <div>
 
       <Hero />
-      <Contact />
+   {/* i del contact from here */}
 
     </div>
 
