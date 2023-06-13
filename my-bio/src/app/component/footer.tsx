@@ -1,9 +1,9 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-import { IoLogoYoutube } from 'react-icons/Io'
-import { AiFillFacebook } from 'react-icons/Ai'
-import { AiFillTwitterSquare } from 'react-icons/Ai'
+import { IoLogoYoutube } from 'react-icons/io'
+import { AiFillFacebook } from 'react-icons/ai'
+import { AiFillTwitterSquare } from 'react-icons/ai'
 import Link from 'next/link'
 
 const Footer = () => {
